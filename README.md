@@ -1,12 +1,12 @@
 # MATLAB-Real-Time-Plot-Audio-Wave
 Real time plot audio wave by speaking to the microphone by MATLAB
 
-Introduction website: http://jarvus.dragonbeef.net/note/noteAudioPlotRT.php
+### You can run this function by only p code!
 
-Demo video: https://youtu.be/ZeFTXS-8X34
+#### Demo video
+https://youtu.be/ZeFTXS-8X34
 
-### You can run this code by only p code
-Full code for advanced cases:
-- Donate USD 10 ( TWD 300 )
-- Will provide m file and its manual
-- http://jarvus.dragonbeef.net/donate.php
+#### Introduction & M file
+https://medium.com/audio-processing-by-matlab/real-time-plot-audio-wave-by-speaking-to-the-microphone-by-matlab-10de5a1aeb63
+#### Tutorial & Contact Jarvus
+https://medium.com/audio-processing-by-matlab
